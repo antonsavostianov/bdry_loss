@@ -1,4 +1,4 @@
-# Boundary Losses in Segmentation problems
+# Boundary Losses in Segmentation Problems
 
 ### Some observations and clarifications to the papers:
 [Hoel Kervadeca, Jihene Bouchtibaa, Christian Desrosiersa, Eric Grangera, Jose Dolza, Ismail Ben Ayed, "Boundary loss for highly unbalanced segmentation", Proceedings of Machine Learning Research 102:285–296, 2019.](http://proceedings.mlr.press/v102/kervadec19a/kervadec19a.pdf)
